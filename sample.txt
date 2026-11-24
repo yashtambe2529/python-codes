@@ -1,0 +1,3 @@
+Hello!
+This is the sample text file for Python Essentials Assignment 9.
+The program reads this file and displays its contents.
